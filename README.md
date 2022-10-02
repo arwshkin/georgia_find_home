@@ -15,4 +15,4 @@
 - количество таких районов поиска не ограничено, параметры между ними могут быть разными
 
 Скрин с настройками myhome.ge:
-![img.png](https://github.com/arwshkin/georgia_find_home/blob/main/img.jpg)
+![img.jpg](https://github.com/arwshkin/georgia_find_home/blob/main/img.jpg)
